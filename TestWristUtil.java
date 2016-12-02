@@ -10,6 +10,7 @@ import com.water.cabinet.core.WristUtil;
 public class TestWristUtil implements WristUtil {
 
 	private static final int WRIST_NO_SIZE = 5;
+	private static final int test = 1;
 	
 	@Override
 	public String getPre(String wristNo) {
